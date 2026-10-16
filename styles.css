@@ -1,0 +1,55 @@
+body {
+    font-family: arial, sans-serif;
+    color: #000000;
+}
+
+.landing-header.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.landing-header {
+    color: #020202;
+    display: flex;
+    justify-content: space-between;
+    background-color: #1F2937;
+}
+
+.landing-nav a {
+    color: #0a0a0a;
+    text-decoration: none;
+}
+
+.hero-section {
+    background-color: #1F2937;
+    font-size: 28px;
+    color: #F9FAF8;
+
+}
+.hero p {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.hero-image {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.info-section .card-image {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn {
+    font-family: arial, sans-serif;
+    color: #3882F6;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
